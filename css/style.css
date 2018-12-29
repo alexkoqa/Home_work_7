@@ -1,0 +1,129 @@
+body{
+	margin: 0;
+	padding: 0;
+	font-family: 'Roboto', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	margin: 0;
+	padding: 0;
+}
+/*--------------start header---------------*/
+.header{
+	
+	padding-top: 77px;
+	padding-bottom: 96px;
+	
+}
+.wrap{
+	margin: 0 auto;
+	width: 65%;
+	padding-left: 50px;
+	padding-right: 50px;
+	
+}
+img{
+	max-width: 100%;
+}
+h1{
+	font-size: 48pt;
+	color: rgba(0, 0, 0, 255);
+	margin-bottom: 15px;
+}
+.title{
+	font-size: 30pt;
+	color: rgba(0, 0, 0, 255);
+	margin-bottom: 35px;
+}
+.description{
+	font-size: 18pt;
+	color: rgba(0, 0, 0, 255);
+	margin-bottom: 47px;
+	text-align: justify;
+}
+.price{
+	font-size: 48pt;
+	color: rgba(49, 49, 49, 255);
+	margin-bottom: 53px;
+}
+.button{
+	font-size: 24pt;
+	color: rgba(255, 255, 255, 255);
+	padding: 22px 44px;
+	margin-right: 40px;
+	margin-bottom: 15px;
+	border-radius: 5px;
+	background-color: #f15921;
+	border: 2px solid #f15921;
+	transition: 0.5s;
+}
+.button:focus{
+	outline: none;
+}
+.button:hover{
+	cursor: pointer;
+	background-color: #fff;
+	color:#f15921;
+	transition: 0.5s;
+}
+.button_o{
+	background-color: transparent;
+	font-size: 24pt;
+	color: rgba(240, 90, 34, 255);
+	padding: 22px 30px;
+}
+.button_o:last-child{
+	margin-bottom: 0px;
+	margin-right: 0px;
+}
+.button_o:hover{
+	background-color: #f15921;
+	color: #fff;
+}
+/*------------------------------end header------------------*/
+
+.advantages{
+	background-color: #f2f2f2;
+	padding-top: 70px;
+	padding-bottom: 100px;
+}
+.advantages_title{
+	font-size: 30pt;
+	color: rgba(51, 51, 51, 255);
+	text-align: center;
+	margin-bottom: 90px;
+}
+.main_block{
+	text-align: center;
+}
+.foto_title{
+	font-size: 15pt;
+	color: rgba(51, 51, 51, 255);
+}
+.mini{
+	width: 54px;
+	height: 54px;
+}
+.mini_foto{
+	margin-bottom: 20px;
+}
+/*-------------end advantages---------------*/
+.who_buy{
+	padding-top: 90px;
+	padding-bottom: 90px;
+}
+
+.who_buy_title{
+	font-size: 30pt;
+	color: rgba(51, 51, 51, 255);
+	text-align: center;
+	margin-bottom: 68px;
+}
+.img_weight{
+	width: 100%;
+}
+.block_1{
+	margin-bottom: 20px;
+}
+
+/*на гит*/
